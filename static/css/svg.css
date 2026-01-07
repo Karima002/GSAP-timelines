@@ -346,3 +346,7 @@ body > svg {
     transform-origin:50% 50%;
   }
 }
+
+#meteoriet {
+  opacity:0;
+}
